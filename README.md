@@ -29,7 +29,7 @@ After print:
  - Reset
 
 <u><b>WARNING:</b></u>
-<u><b>I cannot be held responsible for any damage or unwanted effect as result of using this code in your machine.</b></u>
+<u><b>I cannot be held responsible for any damage or unwanted effect as result of using this code in a machine.</b></u>
 
 <b>I highly suggest to test the code by:</b>
  - in the slicer, after applying the code to the machine settings, with a empty plate
