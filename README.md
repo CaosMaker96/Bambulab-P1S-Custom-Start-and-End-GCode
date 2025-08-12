@@ -48,6 +48,6 @@ After print:
  - Change that if bed mesh is not valid, and "do bed calibration" is checked in the slicer, the printer will do the bed mesh twice.
  - Implement wiping on the A1 wiper
 
-<b>Contributors and credits</b>
+<b>Contributors and credits</b><br>
 Special thanks to reddit user u/tasty_beverage with cleaning the code and removing more junk<br>
 Part of the code is from github user Justagwas, specialy the bed mesh verification
