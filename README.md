@@ -11,7 +11,7 @@ Ultimate start and end gcode for Bambulab P1S printers
  - No trash gcode from the x1 and no useless movement<br>
  - Do the bed leveling, homing and vibration calibration before the filament load and purge, to minimize oozing and time with hot hotend cooking filament<br>
 
- <b>Customizable</b>
+ <b>Customizable</b><br>
  If you want, feel free to scroll through the code and change what you want, with everything explained it's easy to change purge values, remove the priming line, adjust how much the bed lowers after the print.
 
 <b>The order of operation is:</b>
