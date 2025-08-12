@@ -1,5 +1,8 @@
 Ultimate start and end gcode for Bambulab P1S printers
 
+![Static Badge](https://img.shields.io/badge/Download-Latest-blue?logo=github&cacheSeconds=https%3A%2F%2Fgithub.com%2FCaosMaker96%2FBambulab-P1S-Ultimate-Start-and-End-gCode%2Freleases%2Flatest)
+
+
 <img alt="Static Badge" src="https://img.shields.io/badge/Download-Latest-green?style=plastic&logo=github&link=https%3A%2F%2Fgithub.com%2FCaosMaker96%2FBambulab-P1S-Ultimate-Start-and-End-gCode%2Freleases%2Flatest">
 <img alt="Static Badge" src="https://img.shields.io/badge/Reddit-post-orange?style=plastic&logo=reddit&link=https%3A%2F%2Fwww.reddit.com%2Fr%2FBambuLab%2Fcomments%2F1mnecrl%2Fultimate_p1s_custom_start_and_end_gcode%2F%3Futm_source%3Dshare%26utm_medium%3Dweb3x%26utm_name%3Dweb3xcss%26utm_term%3D1%26utm_content%3Dshare_button">
 
