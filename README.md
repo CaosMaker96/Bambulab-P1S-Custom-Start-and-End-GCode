@@ -50,4 +50,7 @@ After print:
 
 <b>Contributors and credits</b><br>
 Special thanks to reddit user u/tasty_beverage with cleaning the code and removing more junk<br>
-Part of the code is from github user Justagwas, specialy the bed mesh verification
+Part of the code is from github user Justagwas, specialy the bed mesh verification<br>
+
+Wanna say thanks? Buy me a coffe here<br>
+https://www.paypal.com/donate/?hosted_button_id=E934X8N7PTNUY
