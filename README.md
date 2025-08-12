@@ -53,4 +53,18 @@ Special thanks to reddit user u/tasty_beverage with cleaning the code and removi
 Part of the code is from github user Justagwas, specialy the bed mesh verification<br>
 
 Wanna say thanks? Buy me a coffe here<br>
-https://www.paypal.com/donate/?hosted_button_id=E934X8N7PTNUY
+<div id="donate-button-container">
+<div id="donate-button"></div>
+<script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
+<script>
+PayPal.Donation.Button({
+env:'production',
+hosted_button_id:'3CAVKXE62BZBN',
+image: {
+src:'https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif',
+alt:'Donate with PayPal button',
+title:'PayPal - The safer, easier way to pay online!',
+}
+}).render('#donate-button');
+</script>
+</div>
