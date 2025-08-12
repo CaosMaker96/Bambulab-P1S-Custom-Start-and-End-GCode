@@ -1,6 +1,6 @@
 Ultimate start and end gcode for Bambulab P1S printers
 
-<b>Why change your default start and end gcode?</b>
+## Why change your default start and end gcode?
 
  - Faster print start times<br>
  - Better nozzle wipe<br>
@@ -11,10 +11,12 @@ Ultimate start and end gcode for Bambulab P1S printers
  - No trash gcode from the x1 and no useless movement<br>
  - Do the bed leveling, homing and vibration calibration before the filament load and purge, to minimize oozing and time with hot hotend cooking filament<br>
 
- <b>Customizable</b><br>
+
+ ## Customizable
  If you want, feel free to scroll through the code and change what you want, with everything explained it's easy to change purge values, remove the priming line, adjust how much the bed lowers after the print.
 
-<b>The order of operation is:</b>
+## How it works?
+The order of operation is:<br>
  - Reset machine status
  - Preheat and home
  - Check if the previous mesh is ok, if not, make another one
@@ -32,7 +34,7 @@ After print:
  - Lower bed just 25mm
  - Reset
 
-<u><b>WARNING:</b></u>
+## WARNING:
 <u><b>I cannot be held responsible for any damage or unwanted effect as result of using this code in a machine.</b></u>
 
 <b>I highly suggest to test the code by:</b>
@@ -44,27 +46,16 @@ After print:
 
 <b>Firmware updates and slicer updates may brake the code, so testing it after any update is recomended</b>
 
-<b>To Do List and known issues</b>
+## To Do List and known issues
  - Change that if bed mesh is not valid, and "do bed calibration" is checked in the slicer, the printer will do the bed mesh twice.
  - Implement wiping on the A1 wiper
 
-<b>Contributors and credits</b><br>
+## Contributors and credits
 Special thanks to reddit user u/tasty_beverage with cleaning the code and removing more junk<br>
 Part of the code is from github user Justagwas, specialy the bed mesh verification<br>
 
 Wanna say thanks? Buy me a coffe here<br>
-<div id="donate-button-container">
-<div id="donate-button"></div>
-<script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
-<script>
-PayPal.Donation.Button({
-env:'production',
-hosted_button_id:'3CAVKXE62BZBN',
-image: {
-src:'https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif',
-alt:'Donate with PayPal button',
-title:'PayPal - The safer, easier way to pay online!',
-}
-}).render('#donate-button');
-</script>
-</div>
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)]([https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X6XHVCPMRQEL4](https://www.paypal.com/donate/?hosted_button_id=3CAVKXE62BZBN))
+
+
