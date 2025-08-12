@@ -56,8 +56,7 @@ Part of the code is from github user Justagwas, specialy the bed mesh verificati
 
 Wanna say thanks? Buy me a coffe here<br>
 
-<p>
-  <a href="https://www.paypal.com/donate/?hosted_button_id=3CAVKXE62BZBN">
-      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
-  </a>
-</p>
+
+
+<a href="#" onClick="MyWindow=window.open('[http://www.google.com](https://www.paypal.com/donate/?hosted_button_id=3CAVKXE62BZBN)','Donate','width=600,height=300'); return false;">Click Here</a>
+   
