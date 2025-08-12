@@ -11,6 +11,9 @@ Ultimate start and end gcode for Bambulab P1S printers
  - No trash gcode from the x1 and no useless movement<br>
  - Do the bed leveling, homing and vibration calibration before the filament load and purge, to minimize oozing and time with hot hotend cooking filament<br>
 
+ <b>Customizable</b>
+ If you want, feel free to scroll through the code and change what you want, with everything explained it's easy to change purge values, remove the priming line, adjust how much the bed lowers after the print.
+
 <b>The order of operation is:</b>
  - Reset machine status
  - Preheat and home
@@ -44,3 +47,7 @@ After print:
 <b>To Do List and known issues</b>
  - Change that if bed mesh is not valid, and "do bed calibration" is checked in the slicer, the printer will do the bed mesh twice.
  - Implement wiping on the A1 wiper
+
+<b>Contributors and credits</b>
+Special thanks to reddit user u/tasty_beverage with cleaning the code and removing more junk<br>
+Part of the code is from github user Justagwas, specialy the bed mesh verification
