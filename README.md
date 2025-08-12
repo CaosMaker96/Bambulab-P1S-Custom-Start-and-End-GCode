@@ -40,5 +40,6 @@ After print:
 
 <b>Firmware updates and slicer updates may brake the code, so testing it after any update is recomended</b>
 
-<b>To Do List and known bugs/problems</b>
+<b>To Do List and known issues</b>
  - Change that if bed mesh is not valid, and "do bed calibration" is checked in the slicer, the printer will do the bed mesh twice.
+ - Implement wiping on the A1 wiper
