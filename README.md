@@ -1,11 +1,17 @@
 Ultimate start and end gcode for Bambulab P1S printers
 
-![Static Badge](https://img.shields.io/badge/Download-Latest-blue?logo=github&cacheSeconds=https%3A%2F%2Fgithub.com%2FCaosMaker96%2FBambulab-P1S-Ultimate-Start-and-End-gCode%2Freleases%2Flatest)
+
+<p align="center">
+    <a href="https://github.com/CaosMaker96/Bambulab-P1S-Ultimate-Start-and-End-gCode/releases/latest" alt="Download latest release">
+        <img src="https://img.shields.io/badge/Download-latest-green?logo=github"/></a>
+    <a href="https://www.reddit.com/r/BambuLab/comments/1mnecrl/ultimate_p1s_custom_start_and_end_gcode/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" alt="Reddit Post">
+        <img src="https://img.shields.io/badge/Reddit-post-orange?logo=reddit"/></a>
+    <a href="https://www.paypal.com/donate/?hosted_button_id=3CAVKXE62BZBN" alt="Donations">
+        <img src="https://img.shields.io/badge/Buy_me-a_coffee-blue?logo=paypal"/></a>
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Download-Latest-green?style=plastic&logo=github&link=https%3A%2F%2Fgithub.com%2FCaosMaker96%2FBambulab-P1S-Ultimate-Start-and-End-gCode%2Freleases%2Flatest">
-<img alt="Static Badge" src="https://img.shields.io/badge/Reddit-post-orange?style=plastic&logo=reddit&link=https%3A%2F%2Fwww.reddit.com%2Fr%2FBambuLab%2Fcomments%2F1mnecrl%2Fultimate_p1s_custom_start_and_end_gcode%2F%3Futm_source%3Dshare%26utm_medium%3Dweb3x%26utm_name%3Dweb3xcss%26utm_term%3D1%26utm_content%3Dshare_button">
 
+</p>
 
 ## Why change your default start and end gcode?
 
@@ -62,11 +68,6 @@ Special thanks to reddit user u/tasty_beverage with cleaning the code and removi
 Part of the code is from github user Justagwas, specialy the bed mesh verification<br>
 
 Wanna say thanks? Buy me a coffe here<br>
-
-
-<a href="https://www.paypal.com/donate/?hosted_button_id=3CAVKXE62BZBN" 
-  target="popup" 
-  onclick="window.open('https://www.paypal.com/donate/?hosted_button_id=3CAVKXE62BZBN','popup','width=600,height=600'); return false;">
-    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
-</a>
+    <a href="https://www.paypal.com/donate/?hosted_button_id=3CAVKXE62BZBN" alt="Donations">
+        <img src="https://img.shields.io/badge/Buy_me-a_coffee-blue?logo=paypal"/></a>
 
