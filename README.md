@@ -67,7 +67,4 @@ After print:
 Special thanks to reddit user u/tasty_beverage with cleaning the code and removing more junk<br>
 Part of the code is from github user Justagwas, specialy the bed mesh verification<br>
 
-Wanna say thanks? Buy me a coffe here<br>
-    <a href="https://www.paypal.com/donate/?hosted_button_id=3CAVKXE62BZBN" alt="Donations">
-        <img src="https://img.shields.io/badge/Buy_me-a_coffee-blue?logo=paypal"/></a>
 
