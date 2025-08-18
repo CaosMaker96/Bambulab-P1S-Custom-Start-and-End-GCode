@@ -60,7 +60,7 @@ M106 P3 S0                                   ; all fan off
 G1 X65 Y245 F12000                           ; go to purge area
 G1 Y265 F3000
 M104 S0                                      ; extruder off
-{if (max_layer_z + 25.0) < 250 }
+{if (max_layer_z + 25.0) < 250}
    M17 Z0.4                                  ; lower z current to reduce impact
    G1 Z{max_layer_z + 25.0} F600             ; lift 25 mm if there is space
 {endif}
