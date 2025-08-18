@@ -3,6 +3,7 @@
 ;======== Author: CaosMaker =========== Version: 2.0 ========
 ;============ Please read readme.md for info ================
 ;============================================================
+; https://github.com/CaosMaker96/Bambulab-P1S-Ultimate-Start-and-End-gCode
 
 ;===== Reset machine and prepare for startup ==============
 G90
