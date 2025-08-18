@@ -3,6 +3,8 @@
 ;======== Author: CaosMaker =========== Version: 2.0 ========
 ;============ Please read readme.md for info ================
 ;============================================================
+; https://github.com/CaosMaker96/Bambulab-P1S-Ultimate-Start-and-End-gCode
+
 
 M400                                         ; wait for buffer to clear
 G92 E0                                       ; zero the extruder
