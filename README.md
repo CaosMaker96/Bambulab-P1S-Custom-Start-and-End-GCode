@@ -3,7 +3,7 @@ Ultimate start and end gcode for Bambulab P1S/P1P printers
 <p align="center">
     <a href="https://github.com/CaosMaker96/Bambulab-P1S-Ultimate-Start-and-End-gCode/releases/latest" alt="Download latest release">
         <img src="https://img.shields.io/badge/Download-latest-green?logo=github"/></a>
-    <a href="https://www.reddit.com/r/BambuLab/comments/1mnecrl/ultimate_p1s_custom_start_and_end_gcode/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" alt="Reddit Post">
+    <a href="https://www.reddit.com/r/BambuLab/comments/1mum8kt/start_printing_in_1_minute_with_this_start_and/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" alt="Reddit Post">
         <img src="https://img.shields.io/badge/Reddit-post-orange?logo=reddit"/></a>
     <a href="https://www.paypal.com/donate/?hosted_button_id=3CAVKXE62BZBN" alt="Donations">
         <img src="https://img.shields.io/badge/Buy_me-a_coffee-blue?logo=paypal"/></a>
@@ -69,6 +69,7 @@ After print:
  - Change that if bed mesh is not valid, and "do bed calibration" is checked in the slicer, the printer will do the bed mesh twice.
  - Implement wiping on the A1 wiper
  - When probing the bed to check the mesh, use 5 different random points to check deformation.
+ - Make a new code also for pause and stop
 
 ## Contributors and credits
 Special thanks to reddit user u/tasty_beverage with cleaning the code and removing more junk<br>
