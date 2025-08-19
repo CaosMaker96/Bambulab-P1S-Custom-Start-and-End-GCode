@@ -1,5 +1,4 @@
-Ultimate start and end gcode for Bambulab P1S printers
-
+Ultimate start and end gcode for Bambulab P1S/P1P printers
 
 <p align="center">
     <a href="https://github.com/CaosMaker96/Bambulab-P1S-Ultimate-Start-and-End-gCode/releases/latest" alt="Download latest release">
@@ -59,9 +58,17 @@ After print:
 
 <b>Firmware updates and slicer updates may brake the code, so testing it after any update is recomended</b>
 
+## How to use
+- Open your slicer
+- Next to the printer open printer settings
+- Go to "machine Gcode"
+- Delete everything from "start gcode" and "end gcode" and paste the code you downloaded
+- Hit save and you're done!
+
 ## To Do List and known issues
  - Change that if bed mesh is not valid, and "do bed calibration" is checked in the slicer, the printer will do the bed mesh twice.
  - Implement wiping on the A1 wiper
+ - When probing the bed to check the mesh, use 5 different random points to check deformation.
 
 ## Contributors and credits
 Special thanks to reddit user u/tasty_beverage with cleaning the code and removing more junk<br>
